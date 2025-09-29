@@ -43,6 +43,10 @@ Please refer to our [Installation guide](install.md) for the installation steps 
 Use our [usage guide](usage_guide.md) for more details on using FloTorch.
 Click [here](faq.md) for frequently asked questions.
 
+## Refactor overview
+
+See the end-to-end writeup: [docs/refactor-overview.md](docs/refactor-overview.md)
+
 ## Contributing
 
 For those who'd like to contribute code, see our [Contribution Guide](CONTRIBUTING.md).
